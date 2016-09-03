@@ -1,7 +1,24 @@
-# Demo Git Repository
+# PHP OOP and Design pattern 
 
-This is the first file in this repository
+ I used this code to teach Computer Science first grade students how to implement OOP in real world and sampe of Design patterns  
 
-# Website
+ 
+# OOP definitions covered
 
-1. index.php 
+ * Class, Object and inistance
+ * Visibilty scope Public, Protected and private
+ * Final and static keywords
+ * Interface and Inheritance 
+ * Abstraction
+ * Overriding 
+ * Error Handling and Exceptions
+ * Return by value and Reference and cloning object
+ 
+ 
+ # Design Pattern implemented
+ 
+  * Singleton Pattern
+  * Factory Pattern
+  * Strategy Pattern
+  
+ 
