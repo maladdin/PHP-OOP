@@ -15,10 +15,10 @@
  * Return by value and Reference and cloning object
  
  
- # Design Pattern implemented
+# Design Pattern implemented
  
-  * Singleton Pattern
-  * Factory Pattern
-  * Strategy Pattern
+ * Singleton Pattern
+ * Factory Pattern
+ * Strategy Pattern
   
  
